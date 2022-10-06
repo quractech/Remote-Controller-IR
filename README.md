@@ -9,3 +9,5 @@ Remote Controller using IR receiver and IR Emitter
 
 ### IDE used:
 - PlateformIO
+
+https://www.youtube.com/watch?v=f_6tEWLfCfY
